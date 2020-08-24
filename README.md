@@ -1,0 +1,2 @@
+# MoneyYojak.com
+MoneyYojak.com is a website for financial advice. Money Yojak is Your Financial Horoscope. We have over 12 years of experience providing financial advice for both retail individuals and HNIs. We are providing Financial Planning , Investment advice , Portfolio construction, Assets allocation and need base advice. We ensures our services are best in class, combining substantiated research with the most effective investing tools available today.

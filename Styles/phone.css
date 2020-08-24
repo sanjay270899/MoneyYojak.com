@@ -1,0 +1,23 @@
+/* Call when width is less than 600px */
+
+html{
+    background-color: red;
+}
+
+/* For Section-main */
+
+#section-main-card-outer1{
+    flex-direction: column;
+}
+
+/* For nav-bar */
+
+#nav-bar ul{
+    display: flex;
+    flex-direction: column;
+}
+
+#nav-bar li:nth-child(even){
+    display: none;
+    font-size: 10px;
+}
